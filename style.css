@@ -1,0 +1,33 @@
+*{
+    padinng : 0;
+    margin :0;
+}
+
+body{
+    background: grey;
+}
+.food1{
+    background-color: chartreuse;
+    width: 100vw;
+    height: 100vh;
+    border: 5px solid black;
+}
+.food2{
+    background-color:rosybrown;
+    width: 100vw;
+    height: 100vh;
+    border: 5px solid black;
+}
+.food3{
+    background-color:hotpink;
+    width: 100vw;
+    height: 100vh;
+    border: 5px solid black;
+}
+.food4{
+    background-color: yellowgreen;
+    width: 100vw;
+    height: 100vh;
+    border: 5px solid black;
+}
+
